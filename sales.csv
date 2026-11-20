@@ -1,0 +1,6 @@
+sale_id,pharmacy_id,product,amount
+101,1,Paracetamol,100.00
+102,1,Ibuprofen,200.00
+103,2,Paracetamol,150.00
+104,2,Vitamin D,300.00
+105,3,Aspirin,250.00

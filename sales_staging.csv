@@ -1,0 +1,9 @@
+raw_id,source_sale_id,pharmacy_id,product,amount_text
+1,901,1, Paracetamol ,100.00
+2,901,1, Paracetamol ,100.00
+3,902,2,VITAMIN D, 300 
+4,903,3,Aspirin,
+5,904,99,Ibuprofen,200
+6,905,2,"",invalid
+7,906,1,Ibuprofen,-20
+8,,3,,75
